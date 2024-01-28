@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudande de Front End, atualmente cursando o primeiro semestre de Engenharia de Software
+    Sou estudande de Front End, atualmente cursando o terceiro semestre de Engenharia de Software
   </p>
   
 </div>
